@@ -407,31 +407,37 @@ hr {
   .tile.tile-2 .tile-inner {
     background: url('../tile-sets/frnds/2.jpg');
     background-size: 100%;
+    color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
     background: url('../tile-sets/frnds/4.jpg');
     background-size: 100%;
+    color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
     background: url('../tile-sets/frnds/8.jpg');
     background-size: 100%;
+    color: rgba(0,0,0,0);
     font-weight: medium;
     font-size: 11px;
   }
   .tile.tile-16 .tile-inner {
     background: url('../tile-sets/frnds/16.jpg');
     background-size: 100%;
+    color: rgba(0,0,0,0);
     font-weight: medium;
     font-size: 10px;
   }
   .tile.tile-32 .tile-inner {
     background: url('../tile-sets/frnds/32.jpg');
     background-size: 100%;
+    color: rgba(0,0,0,0);
     font-size: 14px;
   }
   .tile.tile-64 .tile-inner {
     background: url('../tile-sets/frnds/64.jpg');
     background-size: 100%;
+    color: rgba(0,0,0,0);
     font-size: 14px;
 
   }
@@ -439,6 +445,7 @@ hr {
     font-weight: medium;
     background: url('../tile-sets/frnds/128.jpg');
     background-size: 100%;
+    color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
     font-size: 12px; }
     @media screen and (max-width: 520px) {
@@ -447,6 +454,7 @@ hr {
   .tile.tile-256 .tile-inner {
     background: url('../tile-sets/frnds/256.jpg');
     background-size: 100%;
+    color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
     font-size: 14px; }
     @media screen and (max-width: 520px) {
@@ -455,6 +463,7 @@ hr {
   .tile.tile-512 .tile-inner {
     background: url('../tile-sets/frnds/512.jpg');
     background-size: 100%;
+    color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
     font-size: 13px; }
     @media screen and (max-width: 520px) {
@@ -463,6 +472,7 @@ hr {
   .tile.tile-1024 .tile-inner {
     background: url('../tile-sets/frnds/1024.jpg');
     background-size: 100%;
+    color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
     font-size: 10px; }
     @media screen and (max-width: 520px) {
@@ -471,6 +481,7 @@ hr {
   .tile.tile-2048 .tile-inner {
     background: url('../tile-sets/frnds/2048.jpg');
     background-size: 100%;
+    color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
     font-size: 10px; }
     @media screen and (max-width: 520px) {
