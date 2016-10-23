@@ -7,7 +7,7 @@ html, body {
   color: #354b59;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-family: "Whitney SSm A","Whitney SSm B","Helvetica Neue",Helvetica,Arial,sans-serif;
-  font-size: 18px; }
+  font-size: 30px; }
 
 body {
   margin: 80px 0; }
@@ -19,8 +19,6 @@ p.learn {
 span.tile-text {
   line-height: 1.25;
 }
-
-
 
 input {
   display: inline-block;
